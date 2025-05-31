@@ -8,5 +8,7 @@ This is my automation testing portfolio using CypressIO. The tests I created are
 
 ### Running the tests locally
 1.Install Cypress using ```npm install cypress --save-dev```
+
 2.Clone/Download this repository in *e2e* folder
+
 3.Use ```npx cypress run``` command to run the tests
